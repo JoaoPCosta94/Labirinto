@@ -1,0 +1,4 @@
+﻿  Labirinto.cpp
+D:\Users\meiok\Cinel\UF0810 - C - avançado\ExercicioDeRevisao\Labirinto\Labirinto.cpp(66,55): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+D:\Users\meiok\Cinel\UF0810 - C - avançado\ExercicioDeRevisao\Labirinto\Labirinto.cpp(496,1): warning C4715: 'validaTempo': not all control paths return a value
+  Labirinto.vcxproj -> D:\Users\meiok\Cinel\UF0810 - C - avançado\ExercicioDeRevisao\x64\Debug\Labirinto.exe
