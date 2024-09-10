@@ -1,1 +1,2 @@
 labirinto
+labirinto 2
